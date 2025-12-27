@@ -30,7 +30,7 @@ This project allows users to play, pause, resume, and stop MP3 audio files store
 4. Add your own .mp3 files to the music folder
 5. Run the program:
 
-⚠️ Important Note
+⚠️ Important Note: 
 Audio files are not included in this repository due to copyright restrictions.
 Users should add their own .mp3 files to the music folder.
 
